@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+pictlogger/__init__.py
+pictlogger/pictlogger.so
+pictlogger.egg-info/PKG-INFO
+pictlogger.egg-info/SOURCES.txt
+pictlogger.egg-info/dependency_links.txt
+pictlogger.egg-info/top_level.txt

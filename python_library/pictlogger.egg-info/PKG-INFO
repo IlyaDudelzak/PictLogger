@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pictlogger
+Version: 0.1.0
+Summary: Simple logger writen in c++
+Author: Ilya Dudelzak
+License-File: LICENSE
