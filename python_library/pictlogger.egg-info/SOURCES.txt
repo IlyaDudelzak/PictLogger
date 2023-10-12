@@ -1,4 +1,6 @@
 LICENSE
+pyproject.toml
+readme.md
 setup.py
 pictlogger/__init__.py
 pictlogger/pictlogger.so
