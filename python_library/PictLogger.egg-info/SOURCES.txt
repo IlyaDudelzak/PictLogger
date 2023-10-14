@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+readme.md
+setup.py
+PictLogger.egg-info/PKG-INFO
+PictLogger.egg-info/SOURCES.txt
+PictLogger.egg-info/dependency_links.txt
+PictLogger.egg-info/top_level.txt
+pictlogger/__init__.py
+pictlogger/pictlogger.so

@@ -1,18 +1,20 @@
 [project]
-name = "pictlogger"
-version = "0.0.1"
+name = "PictLogger"
+version = "0.1.3"
 authors = [
   { name="Ilya Dudelzak", email="DIA070611@gmail.com" },
 ]
 description = "Simple logger writen in c++"
 readme = "readme.md"
 requires-python = ">=3.7"
+
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
-    "Operating System :: Linux :: MacOS",
+    "Operating System :: OS Independent",
 ]
 
-[project.urls]
-"Homepage" = "https://github.com/IlyaDudelzak/PictLogger"
-"Bug Tracker" = "https://github.com/IlyaDudelzak/PictLogger/issues"
+[build-system]
+requires = [
+    "setuptools>=58"
+]

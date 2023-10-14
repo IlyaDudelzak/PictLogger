@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='pictlogger',
     packages=find_packages(include=['pictlogger']),
-    version='0.1.0',
+    version='0.1.3',
     description='Simple logger writen in c++',
     author='Ilya Dudelzak',
     install_requires=[],
@@ -12,3 +12,5 @@ setup(
     test_suite='tests',
     package_data={'': ['pictlogger.so']},
 )
+
+print("PictLogger version 0.1 supports ONLY Linux")
